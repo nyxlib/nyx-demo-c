@@ -10,6 +10,8 @@
 
 Make sure that [Nyx-Node](https://github.com/nyxlib/nyx-node/) and [Nyx-Gen](https://github.com/nyxlib/nyx-gen/) are installed.
 
+Using [Nyx-Assistant](https://github.com/nyxlib/nyx-assistant/) or your favorite text editor, open `nyx-demo.json` and edit `mqttURÌ`,`mqttUsername`, `mqttPassword`, `redisURI`, `redisUsername`, `redisPassword` if needed.
+
 ```bash
 nyx-gen nyx-demo.json
 
