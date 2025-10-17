@@ -6,6 +6,8 @@
 
 # Nyx Demo for C99
 
+This is a demo showing how to develop a [Nyx](https://nyxlib.org/) driver (aka node) using [Nyx-Assistant](https://github.com/nyxlib/nyx-assistant/).
+
 # Build instructions
 
 Make sure that [Nyx-Node](https://github.com/nyxlib/nyx-node/) and [Nyx-Gen](https://github.com/nyxlib/nyx-gen/) are installed.
