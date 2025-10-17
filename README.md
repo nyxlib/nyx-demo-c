@@ -29,6 +29,8 @@ make
 ./NYX_DEMO/build/demo
 ```
 
+Make sure that [Nyx-Dashboard](https://github.com/nyxlib/nyx-dashboard/) is installed and properly configured. 
+
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/nyxlib/nyx-node/main/docs/img/demo.png" alt="" style="width: 1250px;" />
 </div>
