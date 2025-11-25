@@ -146,7 +146,7 @@ static void gen_comb(float *dst, size_t n, float mean_db)
 
 /*--------------------------------------------------------------------------------------------------------------------*/
 
-static void timer_stream(__UNUSED__ void *arg)
+static void timer_stream(__NYX_UNUSED__ void *arg)
 {
     if(s_run != NYX_ONOFF_ON)
     {
