@@ -1,8 +1,8 @@
 .idea
 .DS_Store
 
-/NYX_DEMO/.pio/
-/NYX_DEMO/platformio.ini
+/NYX_DEMO/build/
+/NYX_DEMO/CMakeLists.txt
 
 /NYX_DEMO/src/main.c
 /NYX_DEMO/src/credentials.h
