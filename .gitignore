@@ -4,7 +4,7 @@
 /NYX_DEMO/.pio/
 /NYX_DEMO/platformio.ini
 
-/NYX_DEMO/src/main.cpp
-/NYX_DEMO/src/credentials.hpp
+/NYX_DEMO/src/main.c
+/NYX_DEMO/src/credentials.h
 /NYX_DEMO/src/autogen/
 
