@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.univ-grenoble-alpes.fr/" target="_blank"><img src="https://raw.githubusercontent.com/nyxlib/nyx-node/main/docs/img/logo_uga.svg" alt="UGA" height="72" /></a>
 
-# Nyx Demo for C99
+# Nyx Demo for C11
 
 This is a demo showing how to develop a [Nyx](https://nyxlib.org/) driver (aka node) using [Nyx-Assistant](https://github.com/nyxlib/nyx-assistant/).
 
@@ -12,7 +12,7 @@ This is a demo showing how to develop a [Nyx](https://nyxlib.org/) driver (aka n
 
 Make sure that [Nyx-Node](https://github.com/nyxlib/nyx-node/), [Nyx-Gen](https://github.com/nyxlib/nyx-gen/) and [Nyx-Assistant](https://github.com/nyxlib/nyx-assistant/) are installed.
 
-if needed, open `nyx-demo.json` with Nyx-Assistant and edit `mqttURÌ`,`mqttUsername`, `mqttPassword`, `redisURI`, `redisUsername`, `redisPassword`.
+if needed, open `nyx-demo.json` with Nyx-Assistant and edit `mqttURÌ`, `redisNSS`, `mqttUsername`, `mqttPassword`.
 
 ```bash
 nyx-gen nyx-demo.json
