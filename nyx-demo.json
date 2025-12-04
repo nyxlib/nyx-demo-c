@@ -13,10 +13,8 @@
   "mqttURL": "mqtt://localhost:1883",
   "mqttUsername": "",
   "mqttPassword": "",
-  "enableRedis": true,
-  "redisURL": "tcp://localhost:6379",
-  "redisUsername": "",
-  "redisPassword": "",
+  "enableNSS": true,
+  "nssURL": "tcp://localhost:8888",
   "enableINDI": false,
   "indiURL": "",
   "devices": {
