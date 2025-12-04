@@ -12,7 +12,7 @@ This is a demo showing how to develop a [Nyx](https://nyxlib.org/) driver (aka n
 
 Make sure that [Nyx-Node](https://github.com/nyxlib/nyx-node/), [Nyx-Gen](https://github.com/nyxlib/nyx-gen/) and [Nyx-Assistant](https://github.com/nyxlib/nyx-assistant/) are installed.
 
-if needed, open `nyx-demo.json` with Nyx-Assistant and edit `mqttURÌ`, `redisNSS`, `mqttUsername`, `mqttPassword`.
+if needed, open `nyx-demo.json` with Nyx-Assistant and edit `mqttURÌ`, `nssURÌ`, `mqttUsername`, `mqttPassword`.
 
 ```bash
 nyx-gen nyx-demo.json
